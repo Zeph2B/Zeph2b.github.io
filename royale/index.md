@@ -28,3 +28,32 @@ smwcastle.mp3
 smwoverworld.mp3: 
 smwunderground.mp3 
 ```
+# SFX
+```
+alert.mp3	
+break.mp3	
+breath.mp3	
+bump.mp3	
+coin.mp3	
+fireball.mp3	
+firework.mp3	
+flagpole.mp3	
+gold.mp3	
+item.mp3	
+jump0.mp3	
+jump1.mp3	
+kick.mp3	
+life.mp3	
+pipe.mp3	
+powerup.mp3	
+skid.mp3	
+spring.mp3	
+stomp.mp3	
+vine.mp3	
+```
+# Can't modify
+```
+raw.githubusercontent.com/mroyale/assets/master/audio/music/menu.mp3 : title music
+raw.githubusercontent.com/mroyale/assets/master/audio/music/lobby.mp3 : lobby music
+https://mroyale.cyuubi.xyz/assets.json : All character theme
+```
