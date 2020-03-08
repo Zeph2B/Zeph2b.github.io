@@ -2,7 +2,7 @@
 Redirector is required. Recent Updates:
 ```
 08/03/20
-Add royale page
+Add royale directory & page
 ```
 # Music
 ```
@@ -27,3 +27,4 @@ smwathletic.mp3
 smwcastle.mp3 
 smwoverworld.mp3: 
 smwunderground.mp3 
+```
