@@ -20,7 +20,7 @@ main4.mp3:
 main5.mp3 
 main6.mp3 
 star.mp3: 
-steve.mp3 
+steve.mp3:
 victory.mp3: 
 xexyzlevel.mp3: 
 smwathletic.mp3 
