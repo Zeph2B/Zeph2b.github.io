@@ -51,7 +51,7 @@ spring.mp3
 stomp.mp3	
 vine.mp3	
 ```
-# Can't modify
+# Impossible to change
 ```
 raw.githubusercontent.com/mroyale/assets/master/audio/music/menu.mp3 : title music
 raw.githubusercontent.com/mroyale/assets/master/audio/music/lobby.mp3 : lobby music
